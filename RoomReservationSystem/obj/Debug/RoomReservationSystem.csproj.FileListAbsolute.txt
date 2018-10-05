@@ -1,0 +1,17 @@
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\bin\Debug\RoomReservationSystem.exe.config
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\bin\Debug\RoomReservationSystem.exe
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\bin\Debug\RoomReservationSystem.pdb
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\LoginScreen.g.cs
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\MainWindow.g.cs
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\App.g.cs
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\RoomReservationSystem_MarkupCompile.cache
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\RoomReservationSystem_MarkupCompile.lref
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\LoginScreen.baml
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\MainWindow.baml
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\RoomReservationSystem.g.resources
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\RoomReservationSystem.Properties.Resources.resources
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\RoomReservationSystem.csproj.GenerateResource.Cache
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\RoomReservationSystem.exe
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\RoomReservationSystem.pdb
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\udeshika\documents\visual studio 2017\Projects\RoomReservationSystem\RoomReservationSystem\obj\Debug\RoomReservationSystem.csprojResolveAssemblyReference.cache
